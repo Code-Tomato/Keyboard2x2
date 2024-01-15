@@ -3,6 +3,8 @@
 ## Overview
 This is a 2x2 keyboard I made to get experience using KiCAD.
 
+<img src="IMG_2214.jpg?raw=true" alt="Back side of the PCB" title="PCB Back" width="506"/><img src="IMG_2215.jpg?raw=true" alt="Back side of the PCB" title="PCB Back" width="506"/>
+
 ## Features
 - Uses the atmega32u4 chip
 - Arranges by rows and columns starting from 0
